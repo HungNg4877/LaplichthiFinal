@@ -1,0 +1,15 @@
+<RCC>
+  <qresource>
+    <file>images/app.png</file>
+    <file>images/calendar9737.jpg</file>
+    <file>images/Homepage.jpg</file>
+    <file>images/Logo-DH-Kinh-te-Dai-hoc-Da-Nang-DUE.png</file>
+    <file>images/menu_icon.jpg</file>
+    <file>images/noti_3.jpg</file>
+    <file>images/notify_2.png</file>
+    <file>images/notify_icon.png</file>
+    <file>images/profile.jpg</file>
+    <file>images/profile.png</file>
+    <file>images/search_icon.jpg</file>
+  </qresource>
+</RCC>
